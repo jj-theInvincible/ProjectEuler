@@ -1,5 +1,6 @@
 # ProjectEuler
-##A repository of solutions of projecteuler.net problems.
+<h6>A repository of solutions of projecteuler.net problems.</h6>
+
 The problems are listed as p<i> where p is just an alias for problem and i counts for problem Number.
 
 All the codes are written in Languages C and Pyhton and can be used by Curious progrmmers to learn how to code.
