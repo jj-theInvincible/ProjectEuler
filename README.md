@@ -1,12 +1,3 @@
-<<<<<<< HEAD
-# projecteuler
-Problem format:
-
-Programs are written in C,
-The program names are similar to problems as p1 for problem1.
-
-
-=======
 # ProjectEuler
 <h6>A repository of solutions of projecteuler.net problems.</h6>
 
