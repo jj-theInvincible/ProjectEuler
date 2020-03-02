@@ -1,4 +1,4 @@
-//Finding 10001st Prime number..
+//Finding 10001st Prime number...
 #include<stdio.h>
 int isprime(long int a){
 long int i;int c=1;
@@ -34,3 +34,4 @@ break;}
 }
 return 0;
 }
+
